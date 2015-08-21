@@ -55,16 +55,16 @@ public class MainActivity extends AppCompatActivity {
 	}
 	
 	private void addDummyData() {
-		Contact swen = new Contact("John", "6041234567");
-		Contact angie = new Contact("Jane", "6041234567");
-		Contact alex = new Contact("James", "7781234567");
-		Contact titi = new Contact("Jeff", "6041234567");
-		Contact turbo = new Contact("Jordy", "6041234567");
+		Contact john = new Contact("John", "6041234567");
+		Contact jane = new Contact("Jane", "6041234567");
+		Contact james = new Contact("James", "7781234567");
+		Contact jeff = new Contact("Jeff", "6041234567");
+		Contact jordy = new Contact("Jordy", "6041234567");
 
-		mDataSet.add(swen);
-		mDataSet.add(angie);
-		mDataSet.add(alex);
-		mDataSet.add(titi);
-		mDataSet.add(turbo);
+		mDataSet.add(john);
+		mDataSet.add(jane);
+		mDataSet.add(james);
+		mDataSet.add(jeff);
+		mDataSet.add(jordy);
 	}
 }
