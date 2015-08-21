@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        jar="/Users/swen/StudioProjects/ContactGrid/contactGrid/build/intermediates/exploded-aar/com.android.support/support-v4/23.0.0/jars/classes.jar"
+        jumboMode="false"
+        revision="23.0.0"
+        sha1="8413c27b45b7fe61dca4a98159f65e2cee215f5a">
+        <dex dex="/Users/swen/StudioProjects/ContactGrid/contactGrid/build/intermediates/pre-dexed/debug/classes-bb51f238131314cd2193be77c01c4be7a6e82fbd.jar" />
+    </item>
+    <item
+        jar="/Users/swen/Desktop/android-sdk-mars/android-sdk-macosx/extras/android/m2repository/com/android/support/support-annotations/23.0.0/support-annotations-23.0.0.jar"
+        jumboMode="false"
+        revision="23.0.0"
+        sha1="990e7f98a7bad86a40b1f0bcfeb039023afd0839">
+        <dex dex="/Users/swen/StudioProjects/ContactGrid/contactGrid/build/intermediates/pre-dexed/debug/support-annotations-23.0.0-76cfb41f2a776ead56e75424b09d31e7303863a5.jar" />
+    </item>
+    <item
+        jar="/Users/swen/StudioProjects/ContactGrid/contactGrid/build/intermediates/exploded-aar/com.android.support/support-v4/23.0.0/jars/libs/internal_impl-23.0.0.jar"
+        jumboMode="false"
+        revision="23.0.0"
+        sha1="8bd336eeae661e8311330284897ee07f8ebaa297">
+        <dex dex="/Users/swen/StudioProjects/ContactGrid/contactGrid/build/intermediates/pre-dexed/debug/internal_impl-23.0.0-b9193b46607d7c462c7e1830541973751a2f07f6.jar" />
+    </item>
+    <item
+        jar="/Users/swen/StudioProjects/ContactGrid/contactGrid/build/intermediates/exploded-aar/com.android.support/appcompat-v7/22.2.1/jars/classes.jar"
+        jumboMode="false"
+        revision="23.0.0"
+        sha1="4486e953d1f35f8ccab098b1dd67146366d5f731">
+        <dex dex="/Users/swen/StudioProjects/ContactGrid/contactGrid/build/intermediates/pre-dexed/debug/classes-68dd1a31390079eddb3ebb65fb83b620f88284a8.jar" />
+    </item>
+    <item
+        jar="/Users/swen/StudioProjects/ContactGrid/contactGrid/build/intermediates/exploded-aar/com.android.support/recyclerview-v7/23.0.0/jars/classes.jar"
+        jumboMode="false"
+        revision="23.0.0"
+        sha1="40e7757d9b06db670062ddb3cf5b30c129b2fd8c">
+        <dex dex="/Users/swen/StudioProjects/ContactGrid/contactGrid/build/intermediates/pre-dexed/debug/classes-9204fbc4ec96d61633265418ca4855d8b3d9aa0e.jar" />
+    </item>
+
+</items>
